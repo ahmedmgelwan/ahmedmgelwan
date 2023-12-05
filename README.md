@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/ahmedmgelwan](https://www.kaggle.com/ahmedmgelwan)
+- 👨‍💻 All of my projects are available at [My Kaggle Profile](https://www.kaggle.com/ahmedmgelwan)
 
 - 📫 How to reach me **ahmedmgelwan@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1MGLMarC4TkWmgasXTPo9BKXYuHf4AOAw_eHRxrFHUDM/edit?usp=sharing](https://docs.google.com/document/d/1MGLMarC4TkWmgasXTPo9BKXYuHf4AOAw_eHRxrFHUDM/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1MGLMarC4TkWmgasXTPo9BKXYuHf4AOAw_eHRxrFHUDM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
